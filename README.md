@@ -1,6 +1,6 @@
 # Hi there, I'm Thusiru Kodithuwakku! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=thusiru&style=for-the-badge&base=500&color=D83B7D)
+![Profile views](https://komarev.com/ghpvc/?username=thusiru&style=for-the-badge&base=500&color=FE428E)
 
 ## GitHub Stats
 
