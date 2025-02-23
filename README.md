@@ -1,38 +1,33 @@
-# Hi there, I'm Thusiru! 👋
+# Hi there, I'm Thusiru Kodithuwakku! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Thusiru-Kodithuwakku&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=thusiru&style=for-the-badge&base=500&color=D83B7D)
+
+## GitHub Stats
+
+![thusiru's Stats](https://github-readme-stats.vercel.app/api?username=thusiru&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![thusiru's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thusiru&theme=radical&hide_border=true)
+![thusiru's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thusiru&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
 ## About Me
 
 I'm Thusiru Kodithuwakku, a 22-year-old aspiring Computer Science graduate from Sri Lanka. I'm currently studying for my BSc (Hons) in Computer Science at the University of Westminster via Informatics Institute of Technology, Sri Lanka.
 
 - 🌱 I’m currently learning advanced algorithms and AI.
-- 💻 Working on: [Venture Paws](https://github.com/Thusiru-Kodithuwakku/Venture-Paws) - an app to reduce animal cruelty.
 - 🎓 Goal: Graduate with a BSc (Hons) in Computer Science.
 
 ## Skills
-- **Languages:** Python, C, JavaScript, HTML, CSS
-- **Frameworks:** React, Node.js, Express
-- **Tools:** Git, Docker, VSCode
-- **Databases:** MySQL, MongoDB
+- **Languages:** C, Python, HTML, CSS, JavaScript, Java
+- **Frameworks:** Node.js, Express, React, Next.js, NestJS
+- **Tools:** VSCode, Git, GitHub, Docker
+- **Databases:** SQLite, PostgreSQL
 
-## Projects
-
-### [Venture Paws](https://github.com/Thusiru-Kodithuwakku/Venture-Paws)
-An app to reduce animal cruelty by offering features such as reporting criminal cases, research articles, donations, alerts for lost and found animals, a social network of pets, emergency pet care locators, pet counseling service, and more.
+## Fun Fact
+I love coding and playing video games! (Not funny though 😁)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thusiru-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thusiru-kodithuwakku/)
-[![Twitter](https://img.shields.io/badge/Twitter-@ThusiruK-1DA1F2?style=flat&logo=twitter)](https://twitter.com/ThusiruK)
-
-## GitHub Stats
-
-![Thusiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thusiru-Kodithuwakku&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thusiru-Kodithuwakku&layout=compact&theme=radical)
-
-## Fun Fact
-I love coding and playing video games!
-
-<!-- Optional: GitHub streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thusiru-Kodithuwakku&theme=radical)
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/linkedin.svg)](https://www.linkedin.com/in/thusiru-kodithuwakku/)
+[![Twitter](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/twitter.svg)](https://twitter.com/ThusiruK)
+![facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/facebook.svg)
+![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg)
+![Github](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg)
