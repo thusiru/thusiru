@@ -31,3 +31,6 @@ I love coding and playing video games! (Not funny though 😁)
 ![facebook](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/facebook.svg)
 ![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/instagram.svg)
 ![Github](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/medium/light/github.svg)
+
+### Another Me
+[thusiru0](https://github.com/thusiru0)
