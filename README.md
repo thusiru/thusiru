@@ -10,13 +10,13 @@
 
 ## About Me
 
-I'm Thusiru Kodithuwakku, a 22-year-old aspiring Computer Science graduate from Sri Lanka. I'm currently studying for my BSc (Hons) in Computer Science at the University of Westminster via Informatics Institute of Technology, Sri Lanka.
+I'm Thusiru Kodithuwakku, a 22-year-old aspiring Computer Science undergraduate from Sri Lanka. I'm currently studying for my BSc (Hons) in Computer Science at the University of Westminster via Informatics Institute of Technology.
 
 - 🌱 I’m currently learning advanced algorithms and AI.
 - 🎓 Goal: Graduate with a BSc (Hons) in Computer Science.
 
 ## Skills
-- **Languages:** C, Python, HTML, CSS, JavaScript, Java
+- **Languages:** C, Python, HTML, CSS, JavaScript, Java, TypeScript
 - **Frameworks:** Node.js, Express, React, Next.js, NestJS
 - **Tools:** VSCode, Git, GitHub, Docker
 - **Databases:** SQLite, PostgreSQL
